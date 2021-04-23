@@ -1,4 +1,4 @@
-![Hello picture](/hello.jpg)
+![Hello picture](/hello.png)_
 
 - 🍯 Hi, I’m @GordiNoki, also known as 🍯 Honey
 - 🙅‍♀️ I’m interested in your mom
