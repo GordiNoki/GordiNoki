@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![Hello picture](/hello.jpg)
 
 - 🍯 Hi, I’m @GordiNoki, also known as 🍯 Honey
 - 🙅‍♀️ I’m interested in your mom
